@@ -110,13 +110,11 @@ VigorTrack leverages a combination of **mobile development, machine learning, an
 
 | Component | Tools / Libraries | Purpose |
 |-----------|-----------------|---------|
-| **Programming Language** | Python, C/C++ | Core programming for ML models and backend logic |
+| **Programming Language** | Python, C/C++, CSS | Core programming for ML models and backend logic |
 | **Frontend / Mobile App** | React Native | Cross-platform mobile app for iOS and Android |
 | **Backend / API** | Flask | REST API for handling user data and ML model predictions |
 | **Machine Learning Models** | Naive Bayes, Random Forest, Decision Tree, KNN | Predicting health risks based on user symptoms |
 | **Data Processing & ML Libraries** | Scikit-learn, Pandas, NumPy | Data cleaning, preprocessing, and model training |
-| **Image & Sensor Processing** | OpenCV | For camera-based inputs or object detection if applicable |
-| **Cloud Storage / Database** | Firebase | Real-time storage and retrieval of user symptom data |
 | **Development Tools** | Postman, Jupyter Notebook | API testing, model evaluation, and prototyping |
 | **UI/UX Design** | Canva | Designing intuitive and accessible mobile interfaces |
 | **Version Control** | Git & GitHub | Project management, versioning, and collaboration |
